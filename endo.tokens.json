@@ -4037,7 +4037,7 @@
     "color": {
       "primary": {
         "25": {
-          "value": "{palette.blue.25}",
+          "value": "{palette.red.25}",
           "type": "color"
         },
         "50": {
