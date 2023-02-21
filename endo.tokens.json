@@ -70,7 +70,7 @@
       },
       "87": {
         "type": "dimension",
-        "value": "{dimension.baseSize} * 0.87"
+        "value": "{dimension.baseSize} * 0.875"
       },
       "100": {
         "type": "dimension",
